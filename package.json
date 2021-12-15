@@ -1,0 +1,46 @@
+{
+    "name": "vscode-for-writers",
+    "displayName": "VS Code for Writers",
+    "publisher": "danspinola",
+    "description": "Extension Pack with useful extensions for fiction writers.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "andyhuzhill.typewriterscrollmode",
+        "TLahmann.alex-linter",
+        "taichi.vscode-textlint",
+        "ban.spellright",
+        "swyphcosmo.spellchecker",
+        "travisthetechie.write-good-linter",
+        "yzhang.markdown-all-in-one",
+        "vsc-zoctarine.markdown-fiction-writer",
+        "DavidAnson.vscode-markdownlint",
+        "istarwyh.writinghelper",
+        "james-yu.latex-workshop",
+        "pmcxs.vscode-mindmap",
+        "mkloubert.vscode-kanban",
+        "foam.foam-vscode",
+        "piersdeseilligny.betterf",
+        "lkytal.pomodoro",
+        "ms-vscode.wordcount",
+        "dougfinke.vscode-pandoc",
+        "cweijan.vscode-office",
+        "huacat.office-theme",
+        "felipe-mendes.slack-theme",
+        "rozbo.papercolor-vscode",
+        "wheredoesyourmindgo.nushu-vscode-theme",
+        "timreilly.typewriter-sounds",
+        "alefragnani.project-manager",
+        "lextudio.restructuredtext",
+        "yzhang.dictionary-completion",
+        "brunnerh.altervista-thesaurus",
+        "frenco.vscode-notion",
+        "wmorellato.babel",
+        "bierner.emojisense"
+    ]
+}
