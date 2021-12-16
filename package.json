@@ -4,13 +4,20 @@
     "publisher": "danspinola",
     "description": "Extension Pack with useful extensions for fiction writers.",
     "version": "0.0.1",
+    "repository": "https://github.com/danspinola/vscode-for-writers",
     "engines": {
         "vscode": "^1.63.0"
     },
+    "license": "MIT",
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "icon": "assets/notebook-svgrepo-com.png",
+    "galleryBanner": {
+        "color": "#7A5497"
+    },
+    "keywords": ["fiction", "novel", "writing", "writer", "book", "spell check", "story"],
+    "extensionPack": [
         "andyhuzhill.typewriterscrollmode",
         "TLahmann.alex-linter",
         "taichi.vscode-textlint",
@@ -25,7 +32,7 @@
         "pmcxs.vscode-mindmap",
         "mkloubert.vscode-kanban",
         "foam.foam-vscode",
-        "piersdeseilligny.betterf",
+        "piersdeseilligny.betterfountain",
         "lkytal.pomodoro",
         "ms-vscode.wordcount",
         "dougfinke.vscode-pandoc",
