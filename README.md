@@ -39,3 +39,4 @@ Please, take a look at each extension to decide if they'll be useful for you and
 * [VSCode Notion](https://marketplace.visualstudio.com/items?itemName=frenco.vscode-notion): Browse Notion pages directly in Visual Studio Code.
 * [Babel](https://marketplace.visualstudio.com/items?itemName=wmorellato.babel): An extension for writers to create and manage stories using VSCode.
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense): Adds suggestions and autocomplete for emoji.
+* [Read Aloud](https://marketplace.visualstudio.com/items?itemName=azu.read-aloud-text): Text to speech and highlight texts.
