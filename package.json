@@ -49,6 +49,7 @@
         "frenco.vscode-notion",
         "wmorellato.babel",
         "bierner.emojisense",
-	"bierner.speech"
+	"bierner.speech",
+	"johnpapa.read-time"
     ]
 }

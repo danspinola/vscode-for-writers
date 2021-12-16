@@ -40,3 +40,5 @@ Please, take a look at each extension to decide if they'll be useful for you and
 * [Babel](https://marketplace.visualstudio.com/items?itemName=wmorellato.babel): An extension for writers to create and manage stories using VSCode.
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense): Adds suggestions and autocomplete for emoji.
 * [VSCode Speech](https://marketplace.visualstudio.com/items?itemName=bierner.speech): Text to speech (useful for proofreading).
+* [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time): Perfect for writers who want an estimate how for long it may take to read your markdown.
+
