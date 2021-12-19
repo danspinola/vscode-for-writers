@@ -1,6 +1,6 @@
 # VS Code for Writers
 
-This is an Extension Package with some useful extensions and tools for fiction writers.
+This is an Extension Pack with some useful extensions and tools for fiction writers.
 
 Please, take a look at each extension to decide if they'll be useful for you and for further specific instructions.
 
@@ -41,4 +41,3 @@ Please, take a look at each extension to decide if they'll be useful for you and
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense): Adds suggestions and autocomplete for emoji.
 * [VSCode Speech](https://marketplace.visualstudio.com/items?itemName=bierner.speech): Text to speech (useful for proofreading).
 * [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time): Perfect for writers who want an estimate how for long it may take to read your markdown.
-

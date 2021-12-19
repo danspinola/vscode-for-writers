@@ -3,7 +3,7 @@
     "displayName": "VS Code for Writers",
     "publisher": "danspinola",
     "description": "Extension Pack with useful extensions for fiction writers.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/danspinola/vscode-for-writers",
     "engines": {
         "vscode": "^1.63.0"
